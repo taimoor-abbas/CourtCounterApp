@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CourtCounter" parent="Theme.AppCompat.Light">
+        <!-- Primary brand color. -->
+<item name="colorPrimary">#F8F3C244</item>
+        <item name="colorButtonNormal">#F8F3C244</item>
+    </style>
+</resources>
